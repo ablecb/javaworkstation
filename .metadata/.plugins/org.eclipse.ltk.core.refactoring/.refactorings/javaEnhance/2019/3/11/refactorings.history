@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;day2.Weekday&apos; to &apos;Weekday1&apos;&#x0D;&#x0A;- Original project: &apos;javaEnhance&apos;&#x0D;&#x0A;- Original element: &apos;day2.Weekday&apos;&#x0D;&#x0A;- Renamed element: &apos;day2.Weekday1&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Weekday&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;day2{Weekday.java[Weekday" matchStrategy="1" name="Weekday1" qualified="false" references="true" similarDeclarations="false" stamp="1552737905539" textual="false" version="1.0"/>
+</session>

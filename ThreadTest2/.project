@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>ThreadTest2</name>
+	<comment></comment>
+	<projects>
+		<project>concurrency</project>
+		<project>concurrency-1</project>
+		<project>data</project>
+		<project>javaEnhance</project>
+		<project>Servers</project>
+		<project>testJava</project>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+</projectDescription>

@@ -1,0 +1,9 @@
+package testJava;
+
+public class StringTest {
+	public static void main(String[] args) {
+		String a="abc";//一个对象 字符串"abc"
+		String b=a+"d";//先new 一个Stringbuffer,然后
+		
+	}
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="concurrency-1"/>
+<aop-project name="springboot"/>
+<aop-project name="concurrency"/>
+</aop-reference-model>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;tree&apos; to &apos;binaryTree&apos;&#x0D;&#x0A;- Original project: &apos;data&apos;&#x0D;&#x0A;- Original element: &apos;data/src/tree&apos;&#x0D;&#x0A;- Renamed element: &apos;data/src/binaryTree&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;tree&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;tree" name="binaryTree" qualified="false" references="true" stamp="1554251317830" textual="false" version="1.0"/>
+</session>

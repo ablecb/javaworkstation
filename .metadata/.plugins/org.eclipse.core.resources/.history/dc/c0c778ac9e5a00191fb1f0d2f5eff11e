@@ -1,0 +1,10 @@
+package testJava;
+
+public class StringTest {
+	public static void main(String[] args) {
+		String a="abc";
+		String b=a+"d";
+		String a1=String.valueOf("abc");
+		System.out.println(a1==a);
+	}
+}

@@ -1,0 +1,11 @@
+
+**** Build of configuration Default for project myC++ ****
+
+make all 
+
+Cannot run program "make": Launching failed
+Error: Program "make" is not found in PATH
+
+PATH=[F:/java/jre/bin/server;F:/java/jre/bin;F:/java/jre/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;F:\java\jdk\bin;G:\apache-maven-3.6.0\bin;G:\apache-maven-3.6.0\bin;F:\Program Files\Git\cmd;E:\BaiduNetdiskDownload\opencv\build\bin;E:\android-sdk-windows\tools;E:\android-sdk-windows\platform-tools;E:\MySQL Server 5.7\bin;C:\Users\²Ü²©\AppData\Local\Microsoft\WindowsApps;F:\Program Files\Bandizip\;G:\apache-maven-3.6.0\bin;G:\apache-maven-3.6.0\bin;F:\sts-bundle\sts-3.9.6.RELEASE;]
+
+**** Build Finished ****

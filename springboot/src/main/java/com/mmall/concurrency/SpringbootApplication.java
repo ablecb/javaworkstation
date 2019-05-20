@@ -1,0 +1,21 @@
+package com.mmall.concurrency;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.ApplicationContext;
+
+import com.mmall.concurrency.ioc.entity.Person;
+
+@SpringBootApplication
+public class SpringbootApplication {
+
+	public static void main(String[] args) {
+		ApplicationContext applicationContext=SpringApplication.run(SpringbootApplication.class, args);
+		Person  person=applicationContext.getBean(Person.class);
+		
+		System.out.println("Name:"+person.getName());
+		System.out.println("id:"+person.getId());
+		person.call();
+	}
+
+}

@@ -1,0 +1,8 @@
+package thread;
+
+public class ThreadTest {
+	private static void attack() {
+		System.out.println("Fight");
+		System.out.println("Current Thread is  "+Thread.currentThread().getName());
+	}
+}

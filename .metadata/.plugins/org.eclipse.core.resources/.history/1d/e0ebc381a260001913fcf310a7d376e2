@@ -1,0 +1,10 @@
+package stringtest;
+
+public class Str {
+	public static void main(String[] args) {
+		final String a=new String ("abc");
+		a=new String ("nc");
+		int aa=1;
+		aa=2;
+	}
+}

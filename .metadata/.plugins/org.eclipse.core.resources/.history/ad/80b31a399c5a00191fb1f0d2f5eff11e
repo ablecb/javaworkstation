@@ -1,0 +1,11 @@
+package testJava;
+
+public class StringTest {
+	public static void main(String[] args) {
+		String aaa=new String("sdffds");
+		String a="abc";
+		String b=a+"d";
+		StringBuffer sb=new StringBuffer();
+		sb.toString();
+	}
+}
